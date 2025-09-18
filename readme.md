@@ -1,6 +1,6 @@
 # 📘 LX101: Linux Administration Syllabus
 
-<details>
+
 <summary>🖥️ Linux Architecture</summary>
 
 - Kernel, Shell, and User Space  
@@ -9,9 +9,9 @@
 - Process Management (init/systemd)  
 - Boot Process Overview  
 
-</details>
 
-<details>
+
+
 <summary>📦 Linux Distributions</summary>
 
 - Popular distros: Ubuntu, CentOS, OpenSUSE, Fedora  
@@ -19,9 +19,9 @@
 - Desktop vs Server distributions  
 - Choosing the right distribution for use cases  
 
-</details>
 
-<details>
+
+
 <summary>⚖️ RPM vs Debian Distributions</summary>
 
 - Key differences (package format: .rpm vs .deb)  
@@ -29,9 +29,9 @@
 - Service Management Differences  
 - Configuration File Locations  
 
-</details>
 
-<details>
+
+
 <summary>⌨️ Basic Linux Commands</summary>
 
 - File and Directory Navigation (ls, cd, pwd)  
@@ -40,9 +40,9 @@
 - Searching and Filtering (grep, find, locate)  
 - Archiving and Compression (tar, gzip, zip)  
 
-</details>
 
-<details>
+
+
 <summary>🗂️ Exploring Linux OS</summary>
 
 - Understanding File System Layout (/etc, /bin, /var, /home)  
@@ -50,9 +50,9 @@
 - Environment Variables  
 - System Logs and Monitoring (dmesg, journalctl)  
 
-</details>
 
-<details>
+
+
 <summary>🌐 Network Management in Linux</summary>
 
 - Checking IP and Network Interfaces (ip, ifconfig)  
@@ -61,9 +61,9 @@
 - Testing Connectivity (ping, traceroute, curl)  
 - Network Services and Firewalls (iptables, firewalld, ufw)  
 
-</details>
 
-<details>
+
+
 <summary>👥 User Management in Linux</summary>
 
 - Adding/Removing Users and Groups  
@@ -71,9 +71,9 @@
 - Sudo and Privilege Management  
 - Password Policies and Security  
 
-</details>
 
-<details>
+
+
 <summary>🔐 Secure Shell (SSH)</summary>
 
 - SSH Basics (client/server setup)  
@@ -82,9 +82,9 @@
 - SCP and SFTP for File Transfers  
 - Security Best Practices (disable root login, key management)  
 
-</details>
 
-<details>
+
+
 <summary>📑 Package Management</summary>
 
 - Installing and Removing Packages  
@@ -93,9 +93,9 @@
 - Dependency Handling  
 - Verifying Package Integrity  
 
-</details>
 
-<details>
+
+
 <summary>🌍 Apache2 / Httpd Webserver</summary>
 
 - Installing Apache (Debian vs RPM systems)  
@@ -104,9 +104,9 @@
 - Logs and Monitoring  
 - Basic Troubleshooting  
 
-</details>
 
-<details>
+
+
 <summary>🐘 PHP Webserver</summary>
 
 - Installing PHP and Extensions  
@@ -115,9 +115,9 @@
 - Testing PHP with Web Pages  
 - Secure PHP Practices  
 
-</details>
 
-<details>
+
+
 <summary>🔄 Runlevel (Systemd Targets)</summary>
 
 - Traditional SysV Init Runlevels  
@@ -125,9 +125,9 @@
 - Changing Runlevels/Targets  
 - Troubleshooting Boot Modes  
 
-</details>
 
-<details>
+
+
 <summary>🛡️ Pam-tally2</summary>
 
 - Introduction to PAM (Pluggable Authentication Modules)  
@@ -135,9 +135,9 @@
 - Account Lockout Policies  
 - Security Hardening with PAM  
 
-</details>
 
-<details>
+
+
 <summary>📊 Nagios</summary>
 
 - Introduction to Monitoring with Nagios  
@@ -146,9 +146,9 @@
 - Alerts and Notifications  
 - Extending Nagios with Plugins  
 
-</details>
 
-<details>
+
+
 <summary>🔥 LAMP Server</summary>
 
 - Installing Linux, Apache, MySQL/MariaDB, PHP  
@@ -157,9 +157,9 @@
 - Hosting a Sample Website  
 - Hardening the Stack  
 
-</details>
 
-<details>
+
+
 <summary>📡 Repo Server</summary>
 
 - Creating Local Package Repositories (RPM/DEB)  
@@ -168,4 +168,3 @@
 - Automating Repository Updates  
 - Configuring Clients to Use Custom Repos  
 
-</details>
